@@ -1,0 +1,27 @@
+BUG ID         : #1
+TITLE          : CONTACT FORM - No confirmation is shown
+
+SUMMARY        : The page where the contact form is on 
+                 does not show any confirmation message
+                 after submitting a contact request.
+SCREENSHOT     : See attached screenshot
+PLATFORM       : Windows 10 Home, 10.0.19044
+BROWSER        : Chrome 101.0.4951.54
+
+REPORTER       : Tetiana B
+DATE AND TIME  : Fri May 08 10:07:40 2022
+BUG PRIORITY   : Hiht
+BUG SEVERITY   : Critical
+
+NOTES         
+DESCRITION     : 1. Filled out contact form
+                 2. Clicked on submit
+                 3. Form loaded a while
+                 4. Contact form showed "<empty>"
+
+EXPECTED       : "Thank you for contacting us, we get in touch shortly"
+ACTUAL         : "<empty>"
+
+BUG STATUS     : IN PROCESS
+
+
